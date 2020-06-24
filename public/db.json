@@ -1,0 +1,95 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "sku": "fashionDress1",
+        "title": "ladies Wear",
+        "description": "fashion dress",
+        "availableSizes": ["X", "L", "XL", "XXL"],
+        "price": 80,
+        "isFreeShipping": true
+      },
+  
+      {
+        "id": 2,
+        "sku": "fashionDress2",
+        "title": "ladies Wear",
+        "description": "fashion dress",
+        "availableSizes": ["X", "M", "L"],
+        "price": 70,
+        "isFreeShipping": true
+      },
+  
+      {
+        "id": 3,
+        "sku": "fashionDress3",
+        "title": "ladies Wear",
+        "description": "fashion dress",
+        "availableSizes": ["X", "M", "L"],
+        "price": 70,
+        "isFreeShipping": true
+      },
+  
+      {
+        "id": 4,
+        "sku": "fashionDress4",
+        "title": "ladies Wear",
+        "description": "fashion dress",
+        "availableSizes": ["XL"],
+        "price": 60,
+        "isFreeShipping": false
+      },
+  
+      {
+        "id": 5,
+        "sku": "officeWear1",
+        "title": "ladies Wear",
+        "description": "fashion dress",
+        "availableSizes": ["X", "L", "XL"],
+        "price": 70,
+        "isFreeShipping": false
+      },
+  
+      {
+        "id": 6,
+        "sku": "officeWear1",
+        "title": "ladies Wear",
+        "description": "fashion dress",
+        "availableSizes": ["XL", "XXL"],
+        "price": 60,
+        "isFreeShipping": false
+      },
+  
+      {
+        "id": 7,
+        "sku": "officeWear2",
+        "title": "ladies Wear",
+        "description": "fashion dress",
+        "availableSizes": ["S"],
+        "style": "Preto com listras brancas",
+        "price": 60,
+        "isFreeShipping": true
+      },
+  
+      {
+        "id": 8,
+        "sku": "longSleeveDress",
+        "title": "ladies Wear",
+        "description": "fashion dress",
+        "availableSizes": ["XL"],
+        "style": "Azul escuro",
+        "price": 80,
+        "isFreeShipping": false
+      },
+      {
+        "id": 9,
+        "sku": "longSleeveDress2",
+        "title": "ladies Wear",
+        "description": "fashion dress",
+        "availableSizes": ["L", "XL"],
+        "price": 80,
+        "isFreeShipping": true
+      }
+    ]
+  }
+  
